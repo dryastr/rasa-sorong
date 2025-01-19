@@ -1,0 +1,14 @@
+# Ignore all contents within 'admin/assets/vendor'
+admin/assets/vendor/
+
+# Optionally ignore hidden files inside the 'vendor' directory
+admin/assets/vendor/.*
+
+user/assets/vendor/
+
+user/assets/vendor/.*
+
+# If you want to exclude specific subfolders or files inside 'vendor', list them here
+# For example:
+# !admin/assets/vendor/some-file.js
+# !admin/assets/vendor/specific-folder/

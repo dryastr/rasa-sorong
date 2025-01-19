@@ -1,0 +1,4 @@
+.custom-height {
+  height: 200px; /* Tinggi tetap */
+  overflow: auto; /* Agar konten yang lebih panjang bisa discroll */
+}
